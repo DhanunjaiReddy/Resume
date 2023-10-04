@@ -8,7 +8,7 @@ dhanunjaireddy@outlook.com
 Highly skilled and results-oriented Data Scientist with a proven track record of extracting valuable insights from complex data sets. Seeking a challenging position in a forward-thinking organization to leverage advanced analytical and machine learning expertise in solving real-world problems and driving data-driven decision-making.
 
 ## Professional Summary
-- Over 6 years of experience as a Data Scientist, specializing in data analysis, predictive modeling, and machine learning.
+- Over 2 years of experience as a Data Scientist, specializing in data analysis, predictive modeling, and machine learning.
 - Proficient in data preprocessing, feature engineering, and statistical analysis using Python, R, and SQL.
 - Extensive experience in developing and deploying machine learning models for various applications, including recommendation systems, predictive maintenance, and natural language processing (NLP).
 - Strong expertise in data visualization tools such as Matplotlib, Seaborn, and Tableau for communicating complex data insights to non-technical stakeholders.
